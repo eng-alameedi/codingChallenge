@@ -41,3 +41,157 @@ compile_commands.json
 *.exe
 *.out
 *.app
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.out
+*.dll
+
+# Executables
+*.exe
+*.app
+
+# CMake build directory
+build/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Xcode specific files
+*.xcworkspace/
+*.xcodeproj/
+
+# Compiled C++ binaries
+*.gch
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled Java files
+*.class
+
+# Compiled TypeScript files
+*.tsbuildinfo
+
+# Qt-specific
+moc_*
+qrc_*
+ui_*
+
+# Eclipse project files
+.settings/
+
+# JetBrains CLion files
+.idea/
+
+# Code::Blocks project files
+*.depend
+*.layout
+
+# SCons
+.sconsign.dblite
+
+# C++ Build results
+*.suo
+*.pdb
+*.idb
+*.manifest
+*.tlog
+*.log
+*.trace
+*.dll
+*.lib
+*.exp
+*.sbr
+*.suo
+*.aps
+*.pch
+*.cachefile
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# CodeWarrior
+*.rsc
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
